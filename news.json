@@ -1,22 +1,141 @@
 [
   {
-    "image": "https://i.imgur.com/1UpI1nG.png",
-    "title": "Neues Bild",
-    "text": "Hier ist das neue News-Bild.",
-    "date": "18. April 2026",
+    "image": "https://picsum.photos/seed/news1/400/240",
+    "title": "MCWOA Launch-Update 1",
+    "text": "Test oda so",
+    "date": "1. April 2026",
     "tag": "Update"
   },
   {
-    "image": "https://i.imgur.com/1UpI1nG.png",
-    "title": "Mehr Infos",
-    "text": "Noch ein Eintrag mit mehr Details und einem neuen Bild.",
-    "date": "20. April 2026",
-    "tag": "Neu"
-  }
+    "image": "https://picsum.photos/seed/news2/400/240",
+    "title": "MCWOA Ereignis 2",
+    "text": "Ein besonderes Event bringt neue In-Game-Belohnungen und exklusive Inhalte für alle Spieler.",
+    "date": "2. April 2026",
+    "tag": "Event"
+  },
   {
-    "image": "https://i.imgur.com/1UpI1nG.png",
-    "title": "Mehr Infos",
-    "text": "Noch ein Eintrag mit mehr Details und einem neuen Bild.",
+    "image": "https://picsum.photos/seed/news3/400/240",
+    "title": "MCWOA Update 3",
+    "text": "Stabilitätsverbesserungen und Fehlerkorrekturen sorgen für ein reibungsloseres Launch-Erlebnis.",
+    "date": "3. April 2026",
+    "tag": "Patch"
+  },
+  {
+    "image": "https://picsum.photos/seed/news4/400/240",
+    "title": "MCWOA Neuigkeit 4",
+    "text": "Neue Launcher-Funktionen machen das Starten deines Spiels schneller und angenehmer.",
+    "date": "4. April 2026",
+    "tag": "Neu"
+  },
+  {
+    "image": "https://picsum.photos/seed/news5/400/240",
+    "title": "MCWOA News 5",
+    "text": "Ein neuer Modul-Manager wurde integriert, damit Addons einfacher installiert werden können.",
+    "date": "5. April 2026",
+    "tag": "Update"
+  },
+  {
+    "image": "https://picsum.photos/seed/news6/400/240",
+    "title": "MCWOA Event 6",
+    "text": "Zugriff auf neue Discord-Community-Features direkt im Launcher ist jetzt verfügbar.",
+    "date": "6. April 2026",
+    "tag": "Event"
+  },
+  {
+    "image": "https://picsum.photos/seed/news7/400/240",
+    "title": "MCWOA Patch 7",
+    "text": "Verbesserte Netzwerkstabilität sorgt für zuverlässigere Downloads und Aktualisierungen.",
+    "date": "7. April 2026",
+    "tag": "Patch"
+  },
+  {
+    "image": "https://picsum.photos/seed/news8/400/240",
+    "title": "MCWOA Neuigkeit 8",
+    "text": "Neue Anzeigeoptionen für Systeminformationen helfen dir, den Launcher noch besser zu nutzen.",
+    "date": "8. April 2026",
+    "tag": "Neu"
+  },
+  {
+    "image": "https://picsum.photos/seed/news9/400/240",
+    "title": "MCWOA Update 9",
+    "text": "Fehlerbehebungen im Patch-Workflow verbessern die Installation von Addons und Modifikationen.",
+    "date": "9. April 2026",
+    "tag": "Update"
+  },
+  {
+    "image": "https://picsum.photos/seed/news10/400/240",
+    "title": "MCWOA Event 10",
+    "text": "Eine neue Ankündigung für Community-Streams und In-Game-Treffen wurde veröffentlicht.",
+    "date": "10. April 2026",
+    "tag": "Event"
+  },
+  {
+    "image": "https://picsum.photos/seed/news11/400/240",
+    "title": "MCWOA Patch 11",
+    "text": "Sicherheitsupdates schützen deinen Launcher beim Herunterladen externer Inhalte.",
+    "date": "11. April 2026",
+    "tag": "Patch"
+  },
+  {
+    "image": "https://picsum.photos/seed/news12/400/240",
+    "title": "MCWOA Neuheit 12",
+    "text": "Neue personalisierte Inhalte werden im Launcher vorgestellt, inklusive individueller Farben.",
+    "date": "12. April 2026",
+    "tag": "Neu"
+  },
+  {
+    "image": "https://picsum.photos/seed/news13/400/240",
+    "title": "MCWOA Update 13",
+    "text": "Performance-Optimierungen sorgen für schnellere Ladezeiten beim Start des Launchers.",
+    "date": "13. April 2026",
+    "tag": "Update"
+  },
+  {
+    "image": "https://picsum.photos/seed/news14/400/240",
+    "title": "MCWOA Event 14",
+    "text": "Ein neues Community-Quiz erscheint demnächst direkt im Launcher-Bereich.",
+    "date": "14. April 2026",
+    "tag": "Event"
+  },
+  {
+    "image": "https://picsum.photos/seed/news15/400/240",
+    "title": "MCWOA Patch 15",
+    "text": "Kleinere Probleme im Installationsprozess wurden behoben, um Unterbrechungen zu vermeiden.",
+    "date": "15. April 2026",
+    "tag": "Patch"
+  },
+  {
+    "image": "https://picsum.photos/seed/news16/400/240",
+    "title": "MCWOA Neuheit 16",
+    "text": "Neue Launcher-Themes machen das Interface noch ansprechender und moderner.",
+    "date": "16. April 2026",
+    "tag": "Neu"
+  },
+  {
+    "image": "https://picsum.photos/seed/news17/400/240",
+    "title": "MCWOA Update 17",
+    "text": "Verbindungs- und Download-Prioritäten wurden für stabilere Updates verbessert.",
+    "date": "17. April 2026",
+    "tag": "Update"
+  },
+  {
+    "image": "https://picsum.photos/seed/news18/400/240",
+    "title": "MCWOA Event 18",
+    "text": "Community-Highlights und besondere Streams werden direkt im Launcher angekündigt.",
+    "date": "18. April 2026",
+    "tag": "Event"
+  },
+  {
+    "image": "https://picsum.photos/seed/news19/400/240",
+    "title": "MCWOA Patch 19",
+    "text": "Fehlerbehebungen für Toolbar-Elemente sorgen für ein stabileres Nutzererlebnis.",
+    "date": "19. April 2026",
+    "tag": "Patch"
+  },
+  {
+    "image": "https://picsum.photos/seed/news20/400/240",
+    "title": "MCWOA Neuigkeit 20",
+    "text": "Eine neue Launcher-Ansicht zeigt dir jetzt schnell den aktuellen Status deiner Addons.",
     "date": "20. April 2026",
     "tag": "Neu"
   }
